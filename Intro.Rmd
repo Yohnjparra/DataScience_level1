@@ -8,7 +8,9 @@ output:
   html_document: default
 ---
 
-Add more abput deep learning
+Add more about deep learning
+
+Add a second line of text from Githubb Editor
 
 Data science: It's one of the most exciting and fastest-growing fields out there. Data scientists bring value to all kinds of businesses and organizations, and we can thank data science for many of the technologies that make our lives easier, like web search engines and smartphone personal assistants.
 
